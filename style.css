@@ -1,5 +1,36 @@
+h1 {
+  margin: auto;
+}
+
+figure {
+  margin: auto;
+  font-size: 10;
+}
+nav {
+  margin: auto;
+  padding: 10px;
+  background-color: grey;
+}
+
+#featured_property {
+  margin: auto;
+}
+
+#featured_property p {
+  width: 800px;
+  margin: center;
+
+}
+
+#details div {
+  float: left;
+  background-color: red;
+  margin: center;
+  width: 25%;
+}
+
 body {
   width: 100%;
   height: 100%;
-  margin: 0;
+  text-align: center;
 }
